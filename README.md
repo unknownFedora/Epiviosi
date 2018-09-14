@@ -6,7 +6,7 @@
 </div>
 
 # Get the game
-<a href="https://github.com/unknownFedora/Epiviosi/releases"><img src="https://raw.githubusercontent.com/unknownFedora/Epiviosi/master/DownloadButton.png" /></a>
+<a href="https://github.com/unknownFedora/Epiviosi/releases"><img src="https://github.com/unknownFedora/Epiviosi/blob/master/DownloadButton.png" /></a>
 
 # About the game:
     The game is focused on survival experience and nature vibes rather than grinding items.
