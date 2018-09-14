@@ -1,9 +1,8 @@
 # Epiviosi
-
-
 <div align="center">
   <a href="https://discord.gg/UeGeFgJ"><img src="https://img.shields.io/discord/439447018902126592.svg" /></a>
 </div>
+
 # About the game:
     Epiviosi is a 2D Pixel Survival game forged with glorious ambientwork/athmosphere.
     The game is focused on survival experience and nature vibes rather than grinding items.
