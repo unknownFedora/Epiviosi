@@ -6,9 +6,7 @@
 </div>
 
 # About the game:
-    Epiviosi is a 2D Pixel Survival game forged with glorious ambientwork/athmosphere.
     The game is focused on survival experience and nature vibes rather than grinding items.
-    The only enemy in the game is the nature itself.
 
 # How to play:
 
@@ -22,6 +20,6 @@
            Craft a trap > place it > wait for a bird to get trapped > get the bird meat > click on the meat from inventory
            > press E near a campfire.
 
-<u><strong>Meta:</strong></u>
+# Meta
 
     - The word "Epiviosi" means Survival in Greek language and is written as "Epiviosi" in Latin alphabet and is written as "επιβιωση" in Greek alphabet.
