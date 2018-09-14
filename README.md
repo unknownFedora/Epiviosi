@@ -28,5 +28,5 @@
     - The word "Epiviosi" means Survival in Greek language and is written as "Epiviosi" in Latin alphabet and is written as "επιβιωση" in Greek alphabet.
 
 <div align="center">
-  <a href="https://discord.gg/UeGeFgJ"><img src="https://discordapp.com/api/guilds/439447018902126592/widget.png?style=banner4" /></a>
+  <a href="https://discord.gg/UeGeFgJ"><img src="https://discordapp.com/api/guilds/439447018902126592/widget.png?style=banner3" /></a>
 </div>
