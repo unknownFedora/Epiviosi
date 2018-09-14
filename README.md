@@ -1,5 +1,5 @@
 # Epiviosi
-<img src="https://i.hizliresim.com/j6G5Yj.png" />
+<img src="https://raw.githubusercontent.com/unknownFedora/Epiviosi/master/GithubIntro.png" />
 
 <div align="center">
   <a href="https://discord.gg/UeGeFgJ"><img src="https://img.shields.io/discord/439447018902126592.svg" /></a>
