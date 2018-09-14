@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/unknownFedora/Epiviosi/master/GithubIntro.png" />
 
 <div align="center">
-  <a href="https://discord.gg/UeGeFgJ"><img src="https://discordapp.com/api/guilds/439447018902126592/widget.png?style=banner2" /></a>
+  <a href="https://discord.gg/UeGeFgJ"><img src="https://discordapp.com/api/guilds/439447018902126592/widget.png?style=shield" /></a>
 </div>
 
 # Get the game
@@ -27,3 +27,6 @@
 
     - The word "Epiviosi" means Survival in Greek language and is written as "Epiviosi" in Latin alphabet and is written as "επιβιωση" in Greek alphabet.
 
+<div align="center">
+  <a href="https://discord.gg/UeGeFgJ"><img src="https://discordapp.com/api/guilds/439447018902126592/widget.png?style=banner4" /></a>
+</div>
