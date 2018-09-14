@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/unknownFedora/Epiviosi/master/GithubIntro.png" />
 
 <div align="center">
-  <a href="https://discord.gg/UeGeFgJ"><img src="https://discordapp.com/api/guilds/439447018902126592/widget.png?style=shield" /></a>
+  [<img src="https://discordapp.com/api/guilds/439447018902126592/widget.png?style=shield">](https://discord.gg/UeGeFgJ)
 </div>
 
 # Get the game
