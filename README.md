@@ -5,7 +5,7 @@
   <a href="https://discord.gg/UeGeFgJ"><img src="https://discordapp.com/api/guilds/439447018902126592/widget.png?style=shield" /></a>
 </div>
 
-<b href="https://github.com/unknownFedora/Epiviosi/releases"><img src="https://raw.githubusercontent.com/unknownFedora/Epiviosi/master/DownloadButton.png" /></b>
+<a href="https://github.com/unknownFedora/Epiviosi/releases"><img src="https://raw.githubusercontent.com/unknownFedora/Epiviosi/master/DownloadButton.png" /></a>
 
 # About the game:
     The game is focused on survival experience and nature vibes rather than grinding items.
