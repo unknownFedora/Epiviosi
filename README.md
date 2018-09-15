@@ -9,6 +9,7 @@
 <a href="https://github.com/unknownFedora/Epiviosi/releases"><img src="https://github.com/unknownFedora/Epiviosi/blob/master/DownloadButton.png" /></a>
 
 # About the game:
+    Epiviosi is a 2D Pixel Survival game forged with glorious ambientwork/athmosphere.
     The game is focused on survival experience and nature vibes rather than grinding items.
 
 # How to play:
